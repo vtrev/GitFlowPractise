@@ -58,7 +58,7 @@ Once all the features have been finished, one person should make a release `v1.0
 
 ## Release
 
-Once all the features have been finished, one person should make a release `v1.1.0` using Git Flow workflow. Make
+Once all the features have been finished, one person should make a release `v1.1.0` using Git Flow workflow.
 
 
 ## Discussion topics
