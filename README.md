@@ -33,7 +33,7 @@ Get started by doing a `git clone` on this repo.
 
 ## Release
 
-Once all the features have been finished, one person should make a release `v1.0.0` using Git Flow workflow.
+Once all the features have been finished, one person should make a release by merging `develop` into `master`. All team members should get the latest copy of the `master` branch.
 
 ## Feature list: part 2
 
@@ -60,7 +60,7 @@ Once all the features have been finished, one person should make a release `v1.0
 
 ## Release
 
-Once all the features have been finished, one person should make a release `v1.1.0` using Git Flow workflow.
+Once all the features have been finished, one person should make a release by merging `develop` into `master`. All team members should get the latest copy of the `master` branch.
 
 
 ## Discussion topics
