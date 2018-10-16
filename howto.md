@@ -2,9 +2,11 @@
 
 Form teams of **five**
 
-One person in the team clone this repo into your GitHub profile: https://github.com/codex-academy/GitFlowPractise
+One person in the team fork this repo into your GitHub profile: https://github.com/codex-academy/GitFlowPractise
 
 Now add the other **4** team members as a collaborator on your fork of this repo.
+
+Each team member clone the newly forked repo onto their PC into their projects folder.
 
 ## Do this
 
