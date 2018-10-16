@@ -6,7 +6,7 @@ One person in the team fork this repo into your GitHub profile: https://github.c
 
 Now add the other **4** team members as a collaborator on your fork of this repo.
 
-Each team member clone the newly forked repo onto their PC into their projects folder.
+Each team member should clone the newly forked repo onto their PC.
 
 ## Do this
 
