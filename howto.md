@@ -43,7 +43,19 @@ Once done add & commit your changes onto the feature branch and then push it to 
 git push origin the_feature
 ```
 
-Now issue a pull request to your team members using @their usernames to merge into `develop`.
+Now issue a pull request to your team members using @their usernames to merge into `develop`. Delete the branch as part of doing the pull request GitHub will give you the option to delete the branch.
+
+Once done delete the feature branch locally:
+
+```
+git branch -d the_feature
+```
+
+Once the merge is done using the pull request - update your local `develop` branch using a `pull`.
+
+```
+git pull origin develop
+```
 
 
 
