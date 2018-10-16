@@ -35,5 +35,17 @@ git branch the_feature
 git checkout the_feature
 ```
 
+Do your work on the featire branch.
+
+Once done add & commit your changes onto the feature branch and then push it to the central repo.
+
+```
+git push origin the_feature
+```
+
+Now issue a pull request to your team members using @their usernames to merge into `develop`.
+
+
+
 
 
