@@ -15,12 +15,25 @@ Each member should:
 
 ### The repo owner:
 
-Create a `develop` branch from the `master` and push it remotely. 
+Create a `develop` branch from the `master` and push it remotely.
+
+```
+git branch develop
+git push origin develop
+```
 
 ### Other collaborators
 
-Fetch the remote `develop` branch by doing a `git fetch`
+After the develop branch was created by the repo owner - fetch the remote `develop` branch by doing a `git fetch`.
+
 Be sure you can check out the `develop` branch locally using `git checkout develop` - you will create all your feature branches from the `develop` branch.
+
+To create a feature branch do this:
+
+```
+git branch the_feature
+git checkout the_feature
+```
 
 
 
