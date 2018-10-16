@@ -2,7 +2,7 @@
 
 A text-file based thing for practising Git Flow workflow. Follow the [git flow model](http://nvie.com/posts/a-successful-git-branching-model/) and take one feature per person. Don't worry about Hotfix branches for now: just concentrate on using `master`, `develop`, and `feature` branches, and use `git tag` for a release.
 
-Read the [how to](./howto.html) section before you start.
+Read the [how to](./howto.md) section before you start.
 
 To get your code into our text application thing:
 
